@@ -11,7 +11,7 @@
       rgba($primary-color, 0.9),
       rgba($primary-color, 0.3)
     ),
-    url('../img/model-1.jpg') center top;
+    url('../img/model-1.jpg') right top;
   background-size: cover;
 
   h2 {
@@ -24,6 +24,7 @@
     grid-template-columns: 1fr;
     grid-gap: 2rem;
     font-size: 1.5rem;
+    margin: 2rem;
   }
 
   .social-icons {
